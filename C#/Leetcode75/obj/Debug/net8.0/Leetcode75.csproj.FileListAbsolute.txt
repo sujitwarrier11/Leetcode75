@@ -1,0 +1,5 @@
+C:\Users\there\OneDrive\Projects\Leetcode75\c#\Leetcode75\obj\Debug\net8.0\Leetcode75.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\there\OneDrive\Projects\Leetcode75\c#\Leetcode75\obj\Debug\net8.0\Leetcode75.AssemblyInfoInputs.cache
+C:\Users\there\OneDrive\Projects\Leetcode75\c#\Leetcode75\obj\Debug\net8.0\Leetcode75.AssemblyInfo.cs
+C:\Users\there\OneDrive\Projects\Leetcode75\c#\Leetcode75\obj\Debug\net8.0\Leetcode75.csproj.CoreCompileInputs.cache
+C:\Users\there\OneDrive\Projects\Leetcode75\c#\Leetcode75\obj\Debug\net8.0\Leetcode75.sourcelink.json
